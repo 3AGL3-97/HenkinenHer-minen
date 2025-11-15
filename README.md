@@ -1,2 +1,2 @@
-# HenkinenHer-minen
+# HenkinenHeraminen
 Henkinen herääminen ja navigoiminen modernissa maailmassa
